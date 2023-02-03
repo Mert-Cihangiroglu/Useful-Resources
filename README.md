@@ -8,5 +8,3 @@
 ### Blockchain
 *  __[Ethereum Source Code Exploration](https://www.youtube.com/watch?v=gXRIkDASkWc)__:  Ethereum Source Code overview.
 *  __[Decentralized Thoughts](https://decentralizedthoughts.github.io/)__:  Various Useful Articles.
-### Data Science
-*  __[Data Engineering](https://www.startdataengineering.com/)__:  Amazing Data Engineering related blog posts.
